@@ -1,3 +1,9 @@
 {
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "livePreview.customExternalBrowser": "Chrome",
+    "liveshare.openSharedServers": false,
+    "debug.javascript.defaultRuntimeExecutable": {
+        
+        "pwa-node": "node"
+    }
 }
